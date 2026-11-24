@@ -21,7 +21,7 @@ Unity 프로젝트는 `MiniVirtualStudio/`에 있다.
 
 ## 기술 선택 (바꾸기 전에 먼저 물어볼 것)
 
-- Unity 6 LTS, URP (Universal 3D 템플릿)
+- Unity 6.3 LTS (`6000.3.29f1`), URP (Universal 3D 템플릿). 에디터 버전은 함부로 올리지 않는다 (ADR 0001)
 - 아바타: UniVRM (VRM 1.0), 테스트 아바타는 VRoid Studio로 직접 제작
 - 애니메이션: Animator(Mecanim), Animation Rigging, 모션은 Mixamo
 - 카메라: Cinemachine 3.x
