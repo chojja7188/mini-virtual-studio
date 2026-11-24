@@ -136,3 +136,6 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Rider 프로젝트 설정 (자동 생성)
+.idea/
